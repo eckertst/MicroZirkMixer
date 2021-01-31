@@ -1,7 +1,7 @@
 # Welcome to the MicroZirkMixer!
 
 MicroZirkMixer is a Java desktop application written by me (Stefan Eckert) to support my sister Ruth in her scientific work with blood flow velocity data collected by laser doppler flowmetry (LDF). It allows a weighted superposition of two data samples, frequency filtering of this mix with a kind of equalizer and finally the comparison of the filtered superposition to a third data sample on the screen.
-It uses parts of the package commons-math3-3.6.1.
+It uses parts of the package commons-math3-3.6.1 and parts of the source package of MicroZirkFreqAnalyzer ([https://github.com/eckertst/MicroZirkFreqAnalyzer](https://github.com/eckertst/MicroZirkFreqAnalyzer)).
 It is provided here "as is" and without any sort of warrenty concerning correctness or usability or anything else. It is published under [Apache license v2.0](https://github.com/eckertst/MicroZirkMixer/blob/main/LICENSE). You are allowed and invited to use, change or expend it according to this license.
 
 ## How to use the App
