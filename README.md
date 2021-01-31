@@ -57,3 +57,8 @@ Here you can load a data sample that shall be checked against the Mix you have p
 ###  Known problems
 
 Some of the buttons (save the mix; save ore open a equalizer file) are dead. We didn't nead those features, so I stopped writing the code for them.
+
+## How to get the source code
+
+If you want to take a look at the source code or clone it to change the application for your own purposes go here: [https://github.com/eckertst/MicroZirkMixer/tree/master](https://github.com/eckertst/MicroZirkMixer/tree/master) Make sure to get the "master" branch not the "main".
+You'll find a javadoc.zip there which was automatically generated. It was not maintained consequently during programming but it might be of some help nevertheless. Unzip it and open the index.html with your browser.
